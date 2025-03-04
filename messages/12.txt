@@ -1,0 +1,7 @@
+Aircraft 12 is created. Ready to take off. State: ON_STAND
+Aircraft 12 is TAXING
+Aircraft 12 is TAKING_OFF
+Aircraft 12 is ASCENDING
+Aircraft 12 is CRUISING
+Aircraft 12 is DESCENDING
+Aircraft 12 is LANDED
